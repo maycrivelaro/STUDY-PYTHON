@@ -1,3 +1,3 @@
-#Exercícios Python Básico - UDEMY
+#Python Study
 
-**Curso de programação em Python: um guia para iniciantes.**
+Studies and projects using python to fix knowledge.
